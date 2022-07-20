@@ -1,2 +1,7 @@
 # cyberpunk_dataset
-Umit, Jonnathan, Wenya, Raul, Víctor
+
+Participantes del equipo Azul:
+   Umit, Jonnathan, Wenya, Raul, Víctor
+   
+   El codigo lo tenemos en la rama DEV
+
